@@ -21,7 +21,7 @@
 
 - 📄 Know about my story [my career path is one of constant reinvention. After a decisive career change, I returned to my first love: web development, with a predilection for the front-end. At 36, creativity, design, immersion and user interface design are not just skills, but passions that drive every project.](my career path is one of constant reinvention. After a decisive career change, I returned to my first love: web development, with a predilection for the front-end. At 36, creativity, design, immersion and user interface design are not just skills, but passions that drive every project.)
 
-- ⚡ Fun fact **L'apprentissage est un voyage sans fin, et j'accueille chaque nouvelle technologie comme une opportunité. Je m'adapte rapidement, car pour moi, les langages de programmation sont des outils pour réaliser votre vision, et non des obstacles.**
+- ⚡ Fun fact **Learning is a never-ending journey, and I welcome every new technology as an opportunity. I'm quick to adapt, because for me, programming languages are tools for realizing your vision, not obstacles.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,9 +37,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ko-fi.com/0xS4cr"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/0xS4cr" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xs4cr&show_icons=true&locale=en&layout=compact" alt="0xs4cr" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xs4cr&show_icons=true&locale=en" alt="0xs4cr" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xs4cr&show_icons=true&locale=en&layout=compact" alt="0xs4cr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xs4cr&" alt="0xs4cr" /></p>
 
